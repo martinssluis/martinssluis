@@ -1,11 +1,11 @@
 # Luis Henrique Martins <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/47361df0-7a0b-4149-92d6-dd127f25a9f8/dfm11pb-63740cae-a8ab-43cb-bf90-0351c5f89ff5.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ3MzYxZGYwLTdhMGItNDE0OS05MmQ2LWRkMTI3ZjI1YTlmOFwvZGZtMTFwYi02Mzc0MGNhZS1hOGFiLTQzY2ItYmY5MC0wMzUxYzVmODlmZjUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LYrnnmauRJz-ew4GSGEzG7wYzDod0E0sOqpWN2SIrpg"  width="50" style="vertical-align: middle;" />
 
-# ✨Um Pouco Sobre Mim
-🎨 Criativo e Apaixonado por Arte
+# Um Pouco Sobre Mim
+ Criativo e Apaixonado por Arte
 
 Me considero uma pessoa muito criativa e apaixonada por arte, seja pintura, escultura, fotografia, música, cinema ou teatro. Minha mãe sempre incentivou esse lado, levando-me a exposições, apresentando-me bandas e alugando filmes para assistirmos juntos. Adoro deixar um pouco de mim em cada trabalho que realizo; minha identidade é essencial, pois quero deixar minha marca em tudo o que faço.
 
-### 💻 O Início do Meu Interesse por Tecnologia
+###  O Início do Meu Interesse por Tecnologia
 De onde surgiu meu interesse pela tecnologia? Como mencionei, sou apaixonado por cinema, música, fotografia e pela busca de entender como tudo funciona. Um dia, ao procurar um filme para ter uma experiência cinematográfica nova, me recomendaram **A Rede Social** (2010), dirigido por David Fincher e estrelado por Jesse Eisenberg como Mark Zuckerberg. O filme é incrível em todos os aspectos: fotografia impecável, trilha sonora envolvente, diálogos afiados e atuações marcantes. Ele explora a trajetória de um dos gênios contemporâneos, e isso despertou em mim uma curiosidade profunda por tecnologia. Desde aquele dia, soube que queria seguir carreira na área.
 
 ### Citação
@@ -13,7 +13,7 @@ De onde surgiu meu interesse pela tecnologia? Como mencionei, sou apaixonado por
 > *"Everybody wants to know what I would do if I didn't win. I guess we'll never know." - Kanye West* 
 
 ---
-### Objetivos 🎯
+### Objetivos 
 
 Estou em busca de aprofundar meus conhecimentos nas seguintes áreas:
 
