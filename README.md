@@ -35,5 +35,5 @@ Meu objetivo é atuar como desenvolvedor back-end em uma equipe colaborativa, se
 ![martinssluis's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martinssluis&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ---
-![snake animation](https://github.com/martinssluis/martinssluis/blob/output/dist/snake.svg)
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/martinssluis/martinssluis/output/github-contribution-grid-snake.svg">
 
