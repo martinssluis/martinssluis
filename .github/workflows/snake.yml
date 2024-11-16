@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule: 
-    - cron: "0 */1 * * *"  
+    - cron: "0 */6 * * *"  # Executa a cada 6 horas
   workflow_dispatch: 
 
 jobs:
@@ -18,16 +18,17 @@ jobs:
           github_user_name: martinssluis
           outputs: dist/snake.svg
 
-      - name: Upload Snake Animation
-        uses: actions/upload-artifact@v2
-        with:
-          name: snake-animation
-          path: dist/snake.svg
+      # Salvando a animação da cobrinha na pasta 'dist'
+      - name: Save Snake Animation
+        run: |
+          mkdir -p dist
+          cp snake.svg dist/snake.svg
 
+      # Comitando e enviando o arquivo snake.svg para o repositório
       - name: Commit and Push Snake Animation
         run: |
           git config --local user.name "GitHub Actions"
           git config --local user.email "actions@github.com"
-          git add -A
+          git add dist/snake.svg
           git commit -m "Generated snake animation"
           git push
