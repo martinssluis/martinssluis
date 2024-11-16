@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule: 
-    - cron: "0 */6 * * *"
+    - cron: "0 */1 * * *"  
   workflow_dispatch: 
 
 jobs:
@@ -23,3 +23,11 @@ jobs:
         with:
           name: snake-animation
           path: dist/snake.svg
+
+      - name: Commit and Push Snake Animation
+        run: |
+          git config --local user.name "GitHub Actions"
+          git config --local user.email "actions@github.com"
+          git add -A
+          git commit -m "Generated snake animation"
+          git push
