@@ -1,4 +1,4 @@
-# Luis Henrique Martins <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/47361df0-7a0b-4149-92d6-dd127f25a9f8/dfm11pb-63740cae-a8ab-43cb-bf90-0351c5f89ff5.gif" width="50" style="vertical-align: middle;" />
+# Luis Henrique Martins 
 
 > *"Everybody wants to know what I would do if I didn't win. I guess we'll never know." - Kanye West*
 
@@ -30,7 +30,7 @@ Meu objetivo é atuar como desenvolvedor back-end em uma equipe colaborativa, se
 
 ---
 
- ![martinssluis's Stats](https://github-readme-stats.vercel.app/api?username=martinssluis&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![martinssluis's Stats](https://github-readme-stats.vercel.app/api?username=martinssluis&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![martinssluis's Streak](https://github-readme-streak-stats.herokuapp.com/?user=martinssluis&theme=tokyonight&hide_border=true)
 ![martinssluis's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martinssluis&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
