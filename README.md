@@ -6,22 +6,20 @@
 
 ### Sobre Mim  
 
-Sou desenvolvedor de software com 3 anos de experiência. Meu foco está na automação de processos, manipulação de dados e desenvolvimento de plataformas eficientes que simplifiquem rotinas e otimizem a gestão operacional.  
+Sou desenvolvedor de software com 3 anos de experiência, focado na automação de processos, manipulação de dados e desenvolvimento de plataformas eficientes que otimizam a gestão operacional. Meu principal objetivo é evoluir como Engenheiro de Software, especializando-me em Java para projetar e desenvolver softwares.
 
-Utilizo tecnologias como **Python**, **Django** e **Node.js** para meus projetos. Além disso, aplico ferramentas como **Pandas**, **PyAutoGUI** e **Tkinter** para análise de dados, automação e criação de interfaces gráficas.  
+Com o tempo, quero aplicar meus conhecimentos para criar projetos empresariais e soluções para o setor bancário, aproveitando minha experiência na área. Além disso, busco desenvolver projetos que contem um pouco sobre quem eu sou e minha trajetória.
 
+Atualmente, uso ferramentas como VSCode, IntelliJ, MySQL Workbench e Postman para potencializar minha produtividade e criar soluções robustas.
 ---
 
 ### Tecnologias Principais  
 
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20" /> **Python**: Automação de tarefas repetitivas, desenvolvimento backend e análise de dados.  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20" /> **Python**: Automação de tarefas repetitivas, desenvolvimento backend e análise de dados.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="Java" width="20" height="20" /> **Java**: Projetar, desenvolver, testar, manter e gerir sistemas de software.
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="20" height="20" /> **Django**: Criação de APIs e plataformas web escaláveis.  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="20" height="20" /> **Node.js**: Aplicações web e bots de integração.  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="20" height="20" /> **MySQL**: Modelagem e gerenciamento de dados.  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="PyAutoGUI" width="20" height="20" /> **PyAutoGUI**: Automação de processos administrativos e interações manuais.  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Pandas" width="20" height="20" /> **Pandas**: Manipulação e análise de grandes volumes de dados.  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Tkinter" width="20" height="20" /> **Tkinter**: Interfaces gráficas para ferramentas personalizadas.  
-
 ---
 
 ### Projetos de Destaque  
@@ -29,29 +27,8 @@ Utilizo tecnologias como **Python**, **Django** e **Node.js** para meus projetos
 - **Gerenciamento Financeiro**: Desenvolvimento de sistemas para controle e otimização de processos financeiros e comerciais.  
 - **Automação de Rotinas**: Implementação de scripts para automatizar tarefas repetitivas, reduzindo esforço manual e aumentando a eficiência.  
 - **Chatbots Automatizados**: Criação de bots utilizando **Python**, **PyAutoGUI** e **Whatsapp-web.js** para melhorar a comunicação e automatizar interações com clientes.    
-- **Web Responsiva**: Construção de páginas compatíveis com diferentes dispositivos e navegadores, garantindo uma experiência consistente.  
-
----
-
-### Objetivos  
-
-Busco constantemente evoluir tecnicamente e ampliar meu impacto no desenvolvimento de sistemas robustos e inovadores. Meus principais objetivos incluem:  
-
-- 🚀 **Criação e Desenvolvimento de Sistemas**  
-  Projetar, implementar e aprimorar sistemas completos, com foco em funcionalidades inovadoras que atendam às necessidades de negócios e usuários.  
-
-- 🛠️ **Aprofundamento em Linguagens de Programação**  
-  Expandir conhecimentos além do **Python**, explorando linguagens como **JavaScript**, **Java** e **C#**, diversificando habilidades para diferentes cenários de desenvolvimento.  
-
-- 💼 **Projetos Comerciais e Empresariais**  
-  Desenvolver soluções tecnológicas para empresas, como sistemas de gestão e plataformas comerciais, otimizando processos operacionais e estratégicos, promovendo eficiência e melhorando a experiência do cliente.  
-
-- 📊 **Data Science e Automação**  
-  Explorar ferramentas e técnicas avançadas para análise de dados e automação, garantindo maior produtividade e insights estratégicos.  
-
-🎯 Meu objetivo final é criar tecnologias que simplifiquem processos, melhorem a gestão e gerem valor direto para os negócios e stakeholders.  
-
-  
+- **Web Responsiva**: Construção de páginas compatíveis com diferentes dispositivos e navegadores, garantindo uma experiência consistente.
+- **Prova Java**: Desenvolvimento e realização de uma prova técnica voltada para desenvolvedores iniciantes, testando habilidades fundamentais em Java, como estruturas de controle e POO.
 
 ---
 
