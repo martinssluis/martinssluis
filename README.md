@@ -1,6 +1,6 @@
 # Luís Martins  
 
-> *"Everybody wants to know what I would do if I didn't win. I guess we'll never know." - Kanye West*  
+> *"You don’t have to be special. You just have to be what most people aren’t: Consistent" - Tom Brady*  
 
 ---
 
