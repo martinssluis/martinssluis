@@ -52,5 +52,3 @@ Atualmente, uso ferramentas como VSCode, IntelliJ, MySQL Workbench e Postman par
     </td>
   </tr>
 </table>
----
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/martinssluis/martinssluis/output/github-contribution-grid-snake.svg">
