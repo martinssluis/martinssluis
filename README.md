@@ -6,9 +6,12 @@
 
 ### Sobre Mim  
 
-Atualmente trabalho como Desenvolvedor FullStack Junior na AGU (Advocacia-Geral da União), fazendo parte da DIVISIS (equipe de desenvolvimento de sistemas). Estou trabalhando com Python junto com seu framework flask, e TypeScript, aplicando boas práticas de desenvolvimento, com commits que seguem as regras e convenções, utilizando o GitLab como ferramenta de versionamento.
+Atualmente trabalho como Desenvolvedor FullStack Junior na AGU (Advocacia-Geral da União), integrando a equipe DIVISIS (Divisão de Sistemas).
 
-Estou estudando Linux, o que tem me ajudado significativamente no trabalho, e pretendo utilizar esse conhecimento em outras situações, aprofundando meu uso do sistema operacional.
+No backend, desenvolvo com Python (Flask) e TypeScript (Node.js), aplicando boas práticas de código, arquitetura modular e princípios SOLID para construir sistemas escaláveis e de fácil manutenção. No frontend, estou em processo de estudo e avaliação de frameworks modernos para implementar interfaces eficientes.
+
+Além do desenvolvimento, contribuo ativamente com a equipe gravando vídeos de treinamento e documentando processos, ajudando a disseminar conhecimento técnico na organização.
+Objetivo: Consolidar minha expertise em desenvolvimento FullStack enquanto contribuo para soluções tecnológicas de impacto no serviço público.
 
 ### Objetivos Profissionais  
 
@@ -19,8 +22,9 @@ Estou estudando Linux, o que tem me ajudado significativamente no trabalho, e pr
 - Participar ativamente de comunidades tech e eventos da área  
 
 **Tecnologias para Dominar**:  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="20" height="20" /> **Docker**: Containerização de aplicações  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="20" height="20" /> **Jenkins**: Automação de CI/CD  
+ 
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab CI/CD" width="20" height="20" /> **GitLab CI/CD**: Automação de pipelines com `.gitlab-ci.yml`  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="20" height="20" /> **Vue.js**: Framework JavaScript progressivo
 - **AWS**: Cloud computing e serviços escaláveis  
 
 **Estratégia de Aprendizado**:  
@@ -37,21 +41,26 @@ Estou estudando Linux, o que tem me ajudado significativamente no trabalho, e pr
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="20" height="20" /> **Flask**: Desenvolvimento de aplicações web e APIs RESTful com Python, seguindo padrões de clean code e arquitetura escalável.
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="20" height="20" /> **GitLab**: Versionamento de código e CI/CD.  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="20" height="20" /> **Linux**: Sistemas operacionais e linha de comando.  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="20" height="20" /> **MySQL**: Modelagem e gerenciamento de dados.  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="20" height="20" /> **MySQL**: Modelagem e gerenciamento de dados.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="20" height="20" /> **Docker**: Criação e gerenciamento de containers para aplicações escaláveis e portáveis.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg" alt="Insomnia" width="20" height="20" /> **Insomnia**: Teste e documentação de APIs RESTful com organização de requisições e ambientes.
 ---
 
 ### Experiência Profissional  
 
 **AGU (Advocacia-Geral da União)**  
-*Desenvolvedor FullStack Junior*  
-- Desenvolvimento e manutenção de sistemas utilizando Python, flask e TypeScript  
-- Implementação de boas práticas de desenvolvimento e versionamento com GitLab  
-- Trabalho em equipe seguindo metodologias ágeis  
-- Utilização de Linux para desenvolvimento e operações  
+**Desenvolvimento FullStack** com:
+  - Backend em **Python (Flask)** e **TypeScript (Node.js)**
+  - Arquitetura modular e princípios **SOLID/Clean Code**
+  - APIs RESTful documentadas e testadas via **Insomnia**
+  - **DevOps & Infraestrutura**:
+  - Pipelines CI/CD com **GitLab CI**
+  - Containerização com **Docker**
+  - Ambiente Linux para desenvolvimento/produção
 
 ---
 
-### Projetos de Destaque  
+### Projetos  Pessoais de Destaque  
 
 - **Sistema de Conta Corrente (Java)**: Desenvolvimento de uma aplicação bancária simulando operações de conta corrente, com funcionalidades como:
   - Depósitos, saques e transferências
