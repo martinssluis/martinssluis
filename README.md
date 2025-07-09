@@ -8,7 +8,7 @@
 
 Atualmente trabalho como Desenvolvedor FullStack Junior na AGU (Advocacia-Geral da União), integrando a equipe DIVISIS (Divisão de Sistemas).
 
-No backend, desenvolvo com Python (Flask) e TypeScript (Node.js), aplicando boas práticas de código, arquitetura modular e princípios SOLID para construir sistemas escaláveis e de fácil manutenção. No frontend, estou em processo de estudo e avaliação de frameworks modernos para implementar interfaces eficientes.
+No backend, desenvolvo com Python (Flask) e TypeScript, aplicando boas práticas de código, arquitetura modular e princípios SOLID para construir sistemas escaláveis e de fácil manutenção. No frontend, estou em processo de estudo e avaliação de frameworks modernos para implementar interfaces eficientes.
 
 Além do desenvolvimento, contribuo ativamente com a equipe gravando vídeos de treinamento e documentando processos, ajudando a disseminar conhecimento técnico na organização.
 Objetivo: Consolidar minha expertise em desenvolvimento FullStack enquanto contribuo para soluções tecnológicas de impacto no serviço público.
@@ -24,7 +24,7 @@ Objetivo: Consolidar minha expertise em desenvolvimento FullStack enquanto contr
 **Tecnologias para Dominar**:  
  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab CI/CD" width="20" height="20" /> **GitLab CI/CD**: Automação de pipelines com `.gitlab-ci.yml`  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="20" height="20" /> **Vue.js**: Framework JavaScript progressivo
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="20" height="20" /> **React**: Biblioteca JavaScript para construção de interfaces de usuário
 - **AWS**: Cloud computing e serviços escaláveis  
 
 **Estratégia de Aprendizado**:  
@@ -36,14 +36,16 @@ Objetivo: Consolidar minha expertise em desenvolvimento FullStack enquanto contr
 
 ### Tecnologias Principais  
 
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20" /> **Python**: Automação de tarefas repetitivas, desenvolvimento backend e análise de dados.
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="20" height="20" /> **TypeScript**: Desenvolvimento de aplicações web frontend e backend.
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="20" height="20" /> **Flask**: Desenvolvimento de aplicações web e APIs RESTful com Python, seguindo padrões de clean code e arquitetura escalável.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="20" height="20" /> **TypeScript**: Desenvolvimento de aplicações web frontend e backend.  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="20" height="20" /> **Node.js**: Execução de JavaScript no servidor para APIs e aplicações escaláveis.  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="20" height="20" /> **Express**: Framework para construção de APIs RESTful e aplicações backend em Node.js.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20" /> **Python**: Automação de tarefas repetitivas, desenvolvimento backend e análise de dados.  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="20" height="20" /> **Flask**: Desenvolvimento de aplicações web e APIs RESTful com Python, seguindo padrões de clean code e arquitetura escalável.  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="20" height="20" /> **GitLab**: Versionamento de código e CI/CD.  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="20" height="20" /> **Linux**: Sistemas operacionais e linha de comando.  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="20" height="20" /> **MySQL**: Modelagem e gerenciamento de dados.
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="20" height="20" /> **Docker**: Criação e gerenciamento de containers para aplicações escaláveis e portáveis.
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg" alt="Insomnia" width="20" height="20" /> **Insomnia**: Teste e documentação de APIs RESTful com organização de requisições e ambientes.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="20" height="20" /> **MySQL**: Modelagem e gerenciamento de dados.  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="20" height="20" /> **Docker**: Criação e gerenciamento de containers para aplicações escaláveis e portáveis.  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg" alt="Insomnia" width="20" height="20" /> **Insomnia**: Teste e documentação de APIs RESTful com organização de requisições e ambientes.  
 ---
 
 ### Experiência Profissional  
