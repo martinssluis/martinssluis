@@ -6,12 +6,13 @@
 
 ### Sobre Mim  
 
-Atualmente trabalho como Desenvolvedor FullStack Junior na AGU (Advocacia-Geral da União), integrando a equipe DIVISIS (Divisão de Sistemas).
+Sou um desenvolvedor em constante evolução, focado em me especializar em TypeScript através de uma combinação de cursos online, desenvolvimento de projetos práticos e interações ativas com a comunidade de tecnologia.
 
-No backend, desenvolvo com Python (Flask) e TypeScript, aplicando boas práticas de código, arquitetura modular e princípios SOLID para construir sistemas escaláveis e de fácil manutenção. No frontend, estou em processo de estudo e avaliação de frameworks modernos para implementar interfaces eficientes.
+Meu objetivo atual é dominar o ecossistema React e seu framework fullstack, Next.js, para me tornar um desenvolvedor fullstack completo e pronto para os desafios do mercado. Acredito que a base sólida do TypeScript, aliada ao poder do React, é a combinação perfeita para construir aplicações robustas, escaláveis e com uma ótima experiência de desenvolvimento.
 
-Além do desenvolvimento, contribuo ativamente com a equipe gravando vídeos de treinamento e documentando processos, ajudando a disseminar conhecimento técnico na organização.
-Objetivo: Consolidar minha expertise em desenvolvimento FullStack enquanto contribuo para soluções tecnológicas de impacto no serviço público.
+Sou uma pessoa naturalmente curiosa e tenho um grande prazer em estudar. Gosto de me aprofundar bem em um assunto antes de partir para o próximo, seja ele uma nova tecnologia, um padrão de arquitetura ou uma melhor prática de código.
+
+---
 
 ### Objetivos Profissionais  
 
@@ -20,12 +21,11 @@ Objetivo: Consolidar minha expertise em desenvolvimento FullStack enquanto contr
 - Aprofundar conhecimentos em conceitos fundamentais de programação  
 - Reduzir dependência de IA através de projetos práticos e mentoria  
 - Participar ativamente de comunidades tech e eventos da área  
+---
+**Certificações a Conquistar**:  
 
-**Tecnologias para Dominar**:  
- 
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab CI/CD" width="20" height="20" /> **GitLab CI/CD**: Automação de pipelines com `.gitlab-ci.yml`  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="20" height="20" /> **React**: Biblioteca JavaScript para construção de interfaces de usuário
-- **AWS**: Cloud computing e serviços escaláveis  
+- <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="20" height="20" /> **AWS**: Certificação Amazon AWS Certified Cloud Practitioner CLF-C02
+- <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-plain-wordmark.svg" alt="aws" width="20" height="20" /> **RedHat**: Certificação OpenShift IA
 
 **Estratégia de Aprendizado**:  
 - Desenvolvimento de projetos pessoais com complexidade progressiva  
@@ -39,6 +39,7 @@ Objetivo: Consolidar minha expertise em desenvolvimento FullStack enquanto contr
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="20" height="20" /> **TypeScript**: Desenvolvimento de aplicações web frontend e backend.  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="20" height="20" /> **Node.js**: Execução de JavaScript no servidor para APIs e aplicações escaláveis.  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="20" height="20" /> **Express**: Framework para construção de APIs RESTful e aplicações backend em Node.js.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="20" height="20" /> **React**: Framework Front-end para desenvolvimento de aplicações web robustas, coesas e modernas
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20" /> **Python**: Automação de tarefas repetitivas, desenvolvimento backend e análise de dados.  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="20" height="20" /> **Flask**: Desenvolvimento de aplicações web e APIs RESTful com Python, seguindo padrões de clean code e arquitetura escalável.  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="20" height="20" /> **GitLab**: Versionamento de código e CI/CD.  
@@ -46,19 +47,21 @@ Objetivo: Consolidar minha expertise em desenvolvimento FullStack enquanto contr
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="20" height="20" /> **MySQL**: Modelagem e gerenciamento de dados.  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="20" height="20" /> **Docker**: Criação e gerenciamento de containers para aplicações escaláveis e portáveis.  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg" alt="Insomnia" width="20" height="20" /> **Insomnia**: Teste e documentação de APIs RESTful com organização de requisições e ambientes.  
----
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Insomnia" width="20" height="20" /> **Postman**: Teste e documentação de APIs RESTful com organização de requisições e ambientes.
+- ---
+
 
 ### Experiência Profissional  
 
 **AGU (Advocacia-Geral da União)**  
 **Desenvolvimento FullStack** com:
-  - Backend em **Python (Flask)** e **TypeScript (Node.js)**
-  - Arquitetura modular e princípios **SOLID/Clean Code**
-  - APIs RESTful documentadas e testadas via **Insomnia**
-  - **DevOps & Infraestrutura**:
-  - Pipelines CI/CD com **GitLab CI**
-  - Containerização com **Docker**
-  - Ambiente Linux para desenvolvimento/produção
+  - Atualmente estou à frente de uma aplicação TypeScript que segue uma arquitetura MVC, utilizando Node com Express no
+backend. Este projeto é fundamental na transição da equipe para essa stack. Com autonomia para implementar boas práticas
+como orientação a objetos, docker para conteinerização, APIs REST para automação de processos jurídicos, usando Postman
+e Insomnia como plataforma de testes.
+- Participei do desenvolvimento de aplicações web com Python e frameworks como Flask e Socket.io, que integram APIs
+REST para realizar uma comunicação com o sistema principal da AGU. A fim de automatizar a obtenção, manipulação e
+envio de informações.
 
 ---
 
