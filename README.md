@@ -82,7 +82,7 @@ Objetivo: Consolidar minha expertise em desenvolvimento FullStack enquanto contr
 
 ### Redes Sociais  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/martinssluiss) [![Spotify](https://img.shields.io/badge/Spotify-%231DB954?style=for-the-badge&logo=spotify&logoColor=fff)](https://open.spotify.com/user/22khipvilsnydxcso532oh3ly?si=47faca65428e407f)  <a href="mailto:martinssluis.lhml@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/martinssluiss) [![Spotify](https://img.shields.io/badge/Spotify-%231DB954?style=for-the-badge&logo=spotify&logoColor=fff)](https://open.spotify.com/user/22khipvilsnydxcso532oh3ly?si=47faca65428e407f)  <a href="mailto:martinsluisdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ---  
 <table>
