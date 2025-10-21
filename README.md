@@ -55,13 +55,10 @@ Sou uma pessoa naturalmente curiosa e tenho um grande prazer em estudar. Gosto d
 
 **AGU (Advocacia-Geral da União)**  
 **Desenvolvimento FullStack** com:
-  - Atualmente estou à frente de uma aplicação TypeScript que segue uma arquitetura MVC, utilizando Node com Express no
-backend. Este projeto é fundamental na transição da equipe para essa stack. Com autonomia para implementar boas práticas
-como orientação a objetos, docker para conteinerização, APIs REST para automação de processos jurídicos, usando Postman
-e Insomnia como plataforma de testes.
-- Participei do desenvolvimento de aplicações web com Python e frameworks como Flask e Socket.io, que integram APIs
-REST para realizar uma comunicação com o sistema principal da AGU. A fim de automatizar a obtenção, manipulação e
-envio de informações.
+  - Atualmente estou à frente de uma aplicação TypeScript que segue uma arquitetura MVC, utilizando Node com  Express no backend. Este projeto é fundamental na transição da equipe para essa stack. Com autonomia para implementar boas práticas como orientação a objetos, docker para conteinerização, APIs REST com autenticação JWT, para automação de processos jurídicos, usando Postman e Insomnia como plataforma de testes.
+
+- Participei do desenvolvimento de aplicações web com Python e frameworks como Flask e Socket.io, que integram APIs REST com autenticação JWT, para realizar uma comunicação com o sistema principal da AGU.  A fim de automatizar a obtenção, manipulação e envio de informações.
+
 
 ---
 
