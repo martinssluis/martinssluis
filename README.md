@@ -6,10 +6,8 @@
 
 ### Sobre Mim  
 
-Sou um desenvolvedor em constante evolução, focado em me especializar em TypeScript através de uma combinação de cursos online, desenvolvimento de projetos práticos e interações ativas com a comunidade de tecnologia.
-
-Meu objetivo atual é dominar o ecossistema React e seu framework fullstack, Next.js, para me tornar um desenvolvedor fullstack completo e pronto para os desafios do mercado. Acredito que a base sólida do TypeScript, aliada ao poder do React, é a combinação perfeita para construir aplicações robustas, escaláveis e com uma ótima experiência de desenvolvimento.
-
+Sou um desenvolvedor em constante evolução, focado em me especializar em Java através de uma combinação de cursos online, desenvolvimento de projetos práticos e interações ativas com a comunidade de tecnologia.
+Meu objetivo atual é dominar o framework Spring para me tornar um desenvolvedor Java completo e pronto para os desafios do mercado.
 Sou uma pessoa naturalmente curiosa e tenho um grande prazer em estudar. Gosto de me aprofundar bem em um assunto antes de partir para o próximo, seja ele uma nova tecnologia, um padrão de arquitetura ou uma melhor prática de código.
 
 ---
@@ -36,6 +34,7 @@ Sou uma pessoa naturalmente curiosa e tenho um grande prazer em estudar. Gosto d
 
 ### Tecnologias Principais  
 
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="20" height="20" /> **Java**: Desenvolvimento de aplicações backend. 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="20" height="20" /> **TypeScript**: Desenvolvimento de aplicações web frontend e backend.  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="20" height="20" /> **Node.js**: Execução de JavaScript no servidor para APIs e aplicações escaláveis.  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="20" height="20" /> **Express**: Framework para construção de APIs RESTful e aplicações backend em Node.js.
