@@ -1,5 +1,5 @@
 # Luís Martins  
-**`Engenheiro de SOftware`**
+**`Engenheiro de Software`**
 
 > *"You don’t have to be special. You just have to be what most people aren’t: Consistent" - Tom Brady*  
 
