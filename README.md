@@ -4,15 +4,8 @@
 > *"You don’t have to be special. You just have to be what most people aren’t: Consistent" - Tom Brady*  
 
 ---
-
-
 Engenheiro de Software com mais de dois anos de experiência em instituições públicas e financeiras, especializado em APIs
-REST e automação com Java com Spring Boot, TypeScript, Node.js e Python. Reduzi em 80% o tempo de execução de
-processos na Advocacia Geral da União via automação com IA e em 60% o esforço manual no Banco BRB via Python, além
-de liderar projetos fullstack adotados institucionalmente e reconhecidos em premiação acadêmica. Busco uma oportunidade
-como Engenheiro de Software em equipes que valorizem qualidade técnica, impacto real e evolução constante, onde eu possa
-aplicar minha experiência com desenvolvimento e automação para construir sistemas que sustentam operações críticas
-
+REST e automação com Java com Spring Boot, TypeScript, Node.js e Python. Formado em Análise e Desenvolvimento de Sistemas e atualmente cursando Engenharia de Software na PUC Minas, além de Engenharia de Software Java + IA na UNIPDS. Busco evoluir constantemente como profissional e conquistar uma oportunidade como Engenheiro de Software Java em equipes que valorizam qualidade técnica, impacto real e aprendizado contínuo.
 ---
 
 ### Tecnologias e Ferramentas  
