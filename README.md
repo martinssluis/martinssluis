@@ -4,8 +4,12 @@
 > *"You don’t have to be special. You just have to be what most people aren’t: Consistent" - Tom Brady*  
 
 ---
-Engenheiro de Software com mais de dois anos de experiência em instituições públicas e financeiras, especializado em APIs
-REST e automação com Java com Spring Boot, TypeScript, Node.js e Python. Formado em Análise e Desenvolvimento de Sistemas e atualmente cursando Engenharia de Software na PUC Minas, além de Engenharia de Software Java + IA na UNIPDS. Busco evoluir constantemente como profissional e conquistar uma oportunidade como Engenheiro de Software Java em equipes que valorizam qualidade técnica, impacto real e aprendizado contínuo.
+Engenheiro de Software com mais de dois anos de experiência em instituições públicas e financeiras, especializado em Java
+(Spring Boot) e TypeScript, com foco em aplicações back-end e APIs REST. Na Advocacia-Geral da União, desenvolvi
+automações que reduziram o tempo de processos institucionais em até 80%, com funcionalidades incorporadas ao sistema
+principal da instituição, e liderei a implantação de boas práticas como Docker, GitFlow, Conventional Commits e Code Review
+em uma equipe recém-formada. Busco oportunidades como Desenvolvedor Java, com foco em qualidade técnica e entrega de
+soluções de impacto
 ---
 
 ### Tecnologias e Ferramentas  
